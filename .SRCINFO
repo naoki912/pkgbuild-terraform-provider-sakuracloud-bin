@@ -1,15 +1,15 @@
 pkgbase = terraform-provider-sakuracloud-bin
 	pkgdesc = Terraform for SakuraCloud
-	pkgver = 1.12.3
+	pkgver = 1.13.0
 	pkgrel = 1
 	url = https://github.com/sacloud/terraform-provider-sakuracloud
 	arch = i686
 	arch = x86_64
 	license = Apache
-	source_i686 = https://github.com/sacloud/terraform-provider-sakuracloud/releases/download/v1.12.3/terraform-provider-sakuracloud_1.12.3_linux-386.zip
-	sha256sums_i686 = 2346b28375f4b7db5f76678d5d4a6270e3d0280fbaa2434a793e1202d1140feb
-	source_x86_64 = https://github.com/sacloud/terraform-provider-sakuracloud/releases/download/v1.12.3/terraform-provider-sakuracloud_1.12.3_linux-amd64.zip
-	sha256sums_x86_64 = ce79edcdd32f930fb44db4a5695af0948774be71bd21a25ab184d09ccfad660f
+	source_i686 = https://github.com/sacloud/terraform-provider-sakuracloud/releases/download/v1.13.0/terraform-provider-sakuracloud_1.13.0_linux-386.zip
+	sha256sums_i686 = d5ab0307a9b47d507623d0762156767b91356862c1d8b9b76cf3762285b79915
+	source_x86_64 = https://github.com/sacloud/terraform-provider-sakuracloud/releases/download/v1.13.0/terraform-provider-sakuracloud_1.13.0_linux-amd64.zip
+	sha256sums_x86_64 = 1420c1d06cf5e5767134768dee7d0a8ca6f69da9a4282e317419545cf827a0a0
 
 pkgname = terraform-provider-sakuracloud-bin
 

@@ -1,6 +1,6 @@
 # Maintainer: Naoki Kanazawa <nk dot naoki912 at gmail dot com>
 pkgname=terraform-provider-sakuracloud-bin
-pkgver=2.5.0
+pkgver=2.5.1
 pkgrel=1
 pkgdesc="Terraform for SakuraCloud"
 arch=('i686' 'x86_64')
@@ -8,8 +8,8 @@ url="https://github.com/sacloud/terraform-provider-sakuracloud"
 license=('Apache')
 source_x86_64=("${url}/releases/download/v${pkgver}/terraform-provider-sakuracloud_${pkgver}_linux_amd64.zip")
 source_i686=("${url}/releases/download/v${pkgver}/terraform-provider-sakuracloud_${pkgver}_linux_386.zip")
-sha256sums_i686=('1999b0cd15273ab0fdd8fbcf3ad8c6d7c45b05bff5480b23e2746b4cbbea137c')
-sha256sums_x86_64=('1194dce607eb3197001243562ae34af0c6fd7007b81d8b95222dea92a2397aba')
+sha256sums_i686=('7212fa47d5dfc4108f03978fd7c6267c4ee854d258b54a720f0be89fbcddaa13')
+sha256sums_x86_64=('d6e253fbceab96de9bcd14674108f2beafcc7d605c6b9a7622b3954db4f67bf0')
 
 
 package() {
